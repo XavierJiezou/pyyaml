@@ -13,10 +13,10 @@ python setup.py install
 ```
 Note: By default, the `setup.py` script checks whether LibYAML is installed
 and if so, builds and installs LibYAML bindings.  To skip the check
-and force installation of LibYAML bindings, use the option '--with-libyaml':
-'python setup.py --with-libyaml install'.  To disable the check and
-skip building and installing LibYAML bindings, use '--without-libyaml':
-'python setup.py --without-libyaml install'.
+and force installation of LibYAML bindings, use the option `--with-libyaml`:
+`python setup.py --with-libyaml install`.  To disable the check and
+skip building and installing LibYAML bindings, use `--without-libyaml`:
+`python setup.py --without-libyaml install`.
 
 # Usage
 When LibYAML bindings are installed, you may use fast LibYAML-based
@@ -34,7 +34,7 @@ If you don't trust the input stream, you should use:
 ```
 
 PyYAML includes a comprehensive test suite.  To run the tests,
-type 'python setup.py test'.
+type `python setup.py test`.
 
 # Links
 - For more information, check the PyYAML homepage:
