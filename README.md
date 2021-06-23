@@ -37,22 +37,17 @@ PyYAML includes a comprehensive test suite.  To run the tests,
 type `python setup.py test`.
 
 # Links
-- For more information, check the PyYAML homepage:
-'https://github.com/yaml/pyyaml'.
+- For more information, check the PyYAML homepage: https://github.com/yaml/pyyaml.
 
-- For PyYAML tutorial and reference, see:
-'http://pyyaml.org/wiki/PyYAMLDocumentation'.
+- For PyYAML tutorial and reference, see: http://pyyaml.org/wiki/PyYAMLDocumentation.
 
 - Discuss PyYAML with the maintainers in IRC #pyyaml irc.freenode.net.
 
-- You may also use the YAML-Core mailing list:
-'http://lists.sourceforge.net/lists/listinfo/yaml-core'.
+- You may also use the YAML-Core mailing list: http://lists.sourceforge.net/lists/listinfo/yaml-core.
 
-- Submit bug reports and feature requests to the PyYAML bug tracker:
-'https://github.com/yaml/pyyaml/issues'.
+- Submit bug reports and feature requests to the PyYAML bug tracker: https://github.com/yaml/pyyaml/issues.
 
-- The PyYAML module was written by Kirill Simonov <xi@resolvent.net>.
-It is currently maintained by the YAML and Python communities.
+- The PyYAML module was written by Kirill Simonov <xi@resolvent.net>. It is currently maintained by the YAML and Python communities.
 
 # License
 PyYAML is released under the MIT license. See the file LICENSE for more details.
