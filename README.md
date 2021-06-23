@@ -41,7 +41,7 @@ type `python setup.py test`.
 
 - For PyYAML tutorial and reference, see: http://pyyaml.org/wiki/PyYAMLDocumentation.
 
-- Discuss PyYAML with the maintainers in IRC #pyyaml [irc.freenode.net](irc.freenode.net).
+- Discuss PyYAML with the maintainers in IRC `#pyyaml` [irc.freenode.net](irc.freenode.net).
 
 - You may also use the YAML-Core mailing list: http://lists.sourceforge.net/lists/listinfo/yaml-core.
 
